@@ -109,7 +109,3 @@ Create a MySQL database named `datacom` with the following schema:
 - [Yazılım Kodlama - JDBC CRUD](https://www.yazilimkodlama.com/java/java-mysql-veritabani-baglantisi-select-insert-update-delete/)
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
